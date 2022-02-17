@@ -43,6 +43,7 @@ A curated list of resources for learning Korean.
 
 ## Apps
 
+* [SNU LEI](https://apps.apple.com/us/app/snu-lei-hangeul/id1127133132) -- useful for practicing listening comprehension for basic sounds
 * [kGrammar](https://apps.apple.com/kr/app/kgrammar-korean-grammar/id1066352462)
 * [서종한국어 문법학습](https://apps.apple.com/kr/app/%EC%84%B8%EC%A2%85%ED%95%99%EB%8B%B9-%EB%AC%B8%EB%B2%95%ED%95%99%EC%8A%B5-%EC%B4%88%EA%B8%89/id1347807237)
 * [세종학당 회화학습](https://apps.apple.com/kr/app/%EC%84%B8%EC%A2%85%ED%95%99%EB%8B%B9-%ED%9A%8C%ED%99%94%ED%95%99%EC%8A%B5-%EC%B4%88%EA%B8%89/id1378163626)
