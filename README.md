@@ -64,6 +64,7 @@ A curated list of resources for learning Korean.
 * [Tandem](https://apps.apple.com/gb/app/tandem-learn-new-languages/id959001619)
 * [HelloTalk](https://apps.apple.com/gb/app/hellotalk-language-learning/id557130558)
 * [DialUp](https://apps.apple.com/gb/app/dialup-audio/id1295012267)
+* [OwnSlides](https://ownslides.com) -- blind-matched voice calls and scheduled audio rooms with other learners, plus pronunciation scored word by word
 
 ## Browser extensions
 
