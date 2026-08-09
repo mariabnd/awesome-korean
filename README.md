@@ -19,6 +19,7 @@ A curated list of resources for learning Korean.
 * [Naver online dictionary](https://korean.dict.naver.com/english) 
 * [EBS Durian 표준한국어](https://www.ebs.co.kr/durian/kr/course?language=standardKorean)
 * [Tubelang](https://tubelang.com)
+* [Korean Diary AI](https://kdiaryai.com) -- write a diary entry in Korean and get instant AI grammar corrections
 
 ## Radio
 
