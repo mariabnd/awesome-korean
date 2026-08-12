@@ -19,6 +19,7 @@ A curated list of resources for learning Korean.
 * [Naver online dictionary](https://korean.dict.naver.com/english) 
 * [EBS Durian 표준한국어](https://www.ebs.co.kr/durian/kr/course?language=standardKorean)
 * [Tubelang](https://tubelang.com)
+* [Korean From Seoul verb conjugator](https://koreanfromseoul.com/korean-verb-conjugator/) -- free interactive verb conjugation practice tool, no signup needed
 
 ## Radio
 
