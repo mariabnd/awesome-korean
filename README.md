@@ -67,4 +67,6 @@ A curated list of resources for learning Korean.
 
 ## Browser extensions
 
+* [Rolko](https://www.rolko.xyz/) — Desktop Korean webpage word lookup with saved-vocabulary spaced-repetition review. Lookup is free; saving new words requires a paid plan. Includes AI-assisted features.
+
 
