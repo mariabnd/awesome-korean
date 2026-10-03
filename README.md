@@ -67,4 +67,6 @@ A curated list of resources for learning Korean.
 
 ## Browser extensions
 
+* [YuzuLingo](https://yuzulingo.com) - In-browser extension that uses local OCR to make hardcoded video subtitles selectable for instant dictionary lookups, Anki sentence mining, and subtitle blurring.
+
 
