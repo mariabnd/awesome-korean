@@ -19,6 +19,7 @@ A curated list of resources for learning Korean.
 * [Naver online dictionary](https://korean.dict.naver.com/english) 
 * [EBS Durian 표준한국어](https://www.ebs.co.kr/durian/kr/course?language=standardKorean)
 * [Tubelang](https://tubelang.com)
+* [Korean by Roots: 3 roots (free)](https://pianodude.gumroad.com/l/korean-by-roots-free) -- Anki deck + PDF that teaches Korean vocabulary through Sino-Korean roots (hanja)
 
 ## Radio
 
