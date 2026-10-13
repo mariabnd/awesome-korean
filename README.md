@@ -53,6 +53,8 @@ A curated list of resources for learning Korean.
 * [Duolingo](https://itunes.apple.com/app/duolingo-learn-spanish-french/id570060128) NB check "tips" on the website version; explanation of grammar not available in-app
 * [Infinite Korean](https://apps.apple.com/gb/app/infinite-korean/id1298380722) NB use the settings to get rid of romanisation
 
+- [Korean Bridge: Hangul for Kids](https://apps.apple.com/us/app/id6801205183) -- Free, ad-free iOS/iPadOS practice for children ages 4–8 new to Korean: Hangul, picture-based vocabulary and school phrases, with grown-up guidance in five languages. No purchases or subscriptions.
+
 ### Dictionary/translation apps
 
 * [네이버 사전](https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%82%AC%EC%A0%84/id673085116)
