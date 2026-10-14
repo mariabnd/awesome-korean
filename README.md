@@ -19,6 +19,7 @@ A curated list of resources for learning Korean.
 * [Naver online dictionary](https://korean.dict.naver.com/english) 
 * [EBS Durian 표준한국어](https://www.ebs.co.kr/durian/kr/course?language=standardKorean)
 * [Tubelang](https://tubelang.com)
+* [Free TOPIK I Practice Test](https://devjar.dev/lab/topik-practice/) - Free, no sign-up TOPIK I reading practice with original questions, explanations and a timed exam mode (unofficial).
 
 ## Radio
 
