@@ -19,6 +19,7 @@ A curated list of resources for learning Korean.
 * [Naver online dictionary](https://korean.dict.naver.com/english) 
 * [EBS Durian 표준한국어](https://www.ebs.co.kr/durian/kr/course?language=standardKorean)
 * [Tubelang](https://tubelang.com)
+* [Bibooks](https://bibooks.org/languages/korean) -- bilingual read-along audiobooks with parallel text and word-highlighted audio; free to read, paid tiers for extra features
 
 ## Radio
 
