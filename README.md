@@ -52,6 +52,7 @@ A curated list of resources for learning Korean.
 * [세종한국어 문법 중급1](https://apps.apple.com/kr/app/%EC%84%B8%EC%A2%85%ED%95%9C%EA%B5%AD%EC%96%B4-%EB%AC%B8%EB%B2%95-%EC%A4%91%EA%B8%891/id1450686872)
 * [Duolingo](https://itunes.apple.com/app/duolingo-learn-spanish-french/id570060128) NB check "tips" on the website version; explanation of grammar not available in-app
 * [Infinite Korean](https://apps.apple.com/gb/app/infinite-korean/id1298380722) NB use the settings to get rid of romanisation
+* [Anki Miner](https://github.com/0xzerolight/anki_miner) -- automated Korean vocabulary card creation from video, audio, manga and books
 
 ### Dictionary/translation apps
 
