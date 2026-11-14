@@ -67,4 +67,5 @@ A curated list of resources for learning Korean.
 
 ## Browser extensions
 
+* [YouTube Transcript: AI Summary & Chat](https://chromewebstore.google.com/detail/youtube-transcript-ai-sum/bbappnicmjmiliipjcmciaffiglmoekd) -- shows the Korean transcript next to any captioned YouTube video; click a line to replay that part, copy or download the text. Free AI credits available
 
